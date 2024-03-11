@@ -9,6 +9,8 @@ O **POST** foi inspirado principalmente na plataforma de imagens do Pinterest. E
 ## Funcionalidades em Destaque
 Utilizando a biblioteca **Redux**, implementei um sistema de registro, login e logout, proporcionando aos usuários uma experiência segura e personalizável. Durante esses processos, adicionei recursos como campos de entrada obrigatórios, feedback de erros na tela e a opção de revelar a senha. Uma vez registrado e logado, os usuários podem criar novos posts e favoritar os posts de outros usuários. Os posts favoritados podem ser visualizados em uma página dedicada chamada **Favoritos**.
 
+O site é responsivo e utiliza a API do **Unsplash** para enriquecer a experiência visual dos usuários com imagens de alta qualidade.
+
 ## Contribuições
 Agradeço por visitar o projeto! Caso você queira contribuir ou relatar problemas, sinta-se à vontade para entrar em contato ou enviar sugestões. Suas contribuições são bem-vindas e valorizadas.
 

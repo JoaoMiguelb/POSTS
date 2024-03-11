@@ -1,3 +1,11 @@
+// pages
+import Home from './pages/home'
+import Login from './pages/login/index'
+import Favorites from './pages/favorites'
+import Register from './pages/register/index'
+
+// componentes
+import Header from './components/header'
 
 // CSS
 import { createGlobalStyle } from 'styled-components'

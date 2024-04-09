@@ -1,5 +1,8 @@
 # POSTS SOCIAL
 
+## Link para vizualização
+https://posts-joaomiguelb.vercel.app
+
 ## Visão Geral
 Olá, eu sou João Miguel, o desenvolvedor por trás do site **POST**, construído utilizando **React Js** e suas bibliotecas.
 
@@ -15,7 +18,7 @@ O site é responsivo e utiliza a API do **Unsplash** para enriquecer a experiên
 Agradeço por visitar o projeto! Caso você queira contribuir ou relatar problemas, sinta-se à vontade para entrar em contato ou enviar sugestões. Suas contribuições são bem-vindas e valorizadas.
 
 ## Obrigado por explorar este projeto.
-Apreciamos o seu interesse e esperamos que desfrute da experiência no **POST**. Se tiver alguma dúvida ou sugestão, não hesite em nos contatar.
+Aprecio o seu interesse e espero que desfrute da experiência no **POST**. Se tiver alguma dúvida ou sugestão, não hesite em me contatar.
 
 Atenciosamente,
 *João Miguel O dos Santos*
